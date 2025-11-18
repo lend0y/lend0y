@@ -1,93 +1,51 @@
-<h1 align="center">Hi there, I'm Ahmad Qayyim 👋</h1>
+<h2 align="center">Ahmad Qayyim</h2>
 <p align="center">
-  <b>Cyber Security & Backend Enthusiast — focusing on secure backend systems, API development, and modern web technologies.</b>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lend0y&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  Cyber Security & Backend Development Enthusiast
 </p>
 
 ---
 
-## 🚀 About Me  
-I am an Informatics Engineering student passionate about **cyber security**, **backend development**, and **secure system design**.  
-I enjoy building efficient backend architectures, experimenting with security tools, and exploring how modern applications can be made safer, faster, and more reliable.
+## 🔧 Tech Stack
+
+### Cyber Security
+- Linux & Shell Scripting  
+- Nmap  
+- Burp Suite  
+- Wireshark  
+- OWASP Top 10 Basics  
+
+### Backend Development
+- PHP (OOP)  
+- JavaScript (ES6)  
+- Node.js  
+- MySQL / MariaDB  
+- REST API  
+- Postman  
+- Git & GitHub  
 
 ---
 
-## 🛡 Tech Stack — Cyber Security & Backend
+## 📌 Featured Projects
 
-### 🔐 Cyber Security
-<p>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BurpSuite-F96815?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
+### **AI-Based Early Rain Prediction and Automated Roof System**
+A smart home IoT system that integrates water sensors, humidity data, and WiFi connectivity for automated roof control and early rain prediction.
 
-### 🖥 Backend & Software Development
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### **Attendify**
+A modern QR-based attendance system designed with modular architecture and responsive UI.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=lend0y&theme=tokyonight)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🌧️ **AI-Based Early Rain Prediction and Automated Roof System**
-An intelligent **Smart Home IoT system** that utilizes  
-**AI-based early rain prediction**, real-time **water sensor data**,  
-**humidity monitoring**, and **WiFi-based remote connectivity** to  
-automatically control a roof mechanism for weather protection.
-
-👉 *A combination of IoT, embedded systems, automation logic, and AI-driven environmental analysis.*  
-👉 *Designed for smart home applications requiring real-time, automated response.*
-
----
-
-### 🎫 **Attendify**
-A modern **QR-based attendance system** with responsive UI, dynamic routing, and modular architecture.  
-👉 *Designed for mobile-first experience using Flutter & efficient state management.*
-
----
-
-## 📫 Connect with Me
-
-<p>
-  <a href="https://www.instagram.com/koyiimm._/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ahmad-qayyim-3107202a8/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ahmadqoyyim388@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
+## 📊 GitHub Insights
 
 <p align="center">
-  <i>“Keep learning, keep building, and keep securing.”</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=default&hide_title=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=default" height="140"/>
 </p>
+
+---
+
+## 📫 Contact  
+- Instagram: [@koyiimm._](https://www.instagram.com/koyiimm._/)  
+- LinkedIn: [Ahmad Qayyim](https://www.linkedin.com/in/ahmad-qayyim-3107202a8/)  
+- Email: **ahmadqoyyim388@gmail.com**
+
