@@ -3,6 +3,10 @@
   Cyber Security & Backend Development Enthusiast
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=lend0y&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 ---
 
 ## 🔧 Tech Stack
