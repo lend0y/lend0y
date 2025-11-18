@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/lend0y/lend0y/blob/main/AI-Based%20Early%20Rain%20Prediction%20and%20Automated%20Roof%20System%20using%20Water%20Sensors%2C%20Humidity%20Data%2C%20and%20WiFi%20Connectivity%20for%20Smart%20Home%20Applications.png?raw=1" width="100%">
-</p>
-
 <h1 align="center">Hi there, I'm Ahmad Qayyim 👋</h1>
 <p align="center">
   <b>Cyber Security & Backend Enthusiast — focusing on secure backend systems, API development, and modern web technologies.</b>
