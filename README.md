@@ -49,7 +49,7 @@ A QR-based attendance system featuring modular architecture and a responsive mob
 ---
 
 ## 📫 Contact
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com/koyiimm._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
