@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/lend0y/lend0y/blob/main/AI-Based%20Early%20Rain%20Prediction%20and%20Automated%20Roof%20System%20using%20Water%20Sensors%2C%20Humidity%20Data%2C%20and%20WiFi%20Connectivity%20for%20Smart%20Home%20Applications.png?raw=1" width="100%">
+</p>
+
 <h1 align="center">Hi there, I'm Ahmad Qayyim 👋</h1>
 <p align="center">
   <b>Cyber Security & Backend Enthusiast — focusing on secure backend systems, API development, and modern web technologies.</b>
@@ -9,9 +13,9 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 I am an Informatics Engineering student passionate about **cyber security**, **backend development**, and **secure system design**.  
-I enjoy building efficient backend architectures, experimenting with security tools, and exploring how modern applications can be made safer and faster.
+I enjoy building efficient backend architectures, experimenting with security tools, and exploring how modern applications can be made safer, faster, and more reliable.
 
 ---
 
@@ -26,13 +30,13 @@ I enjoy building efficient backend architectures, experimenting with security to
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
-### 🖥 Backend Development
+### 🖥 Backend & Software Development
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -42,7 +46,7 @@ I enjoy building efficient backend architectures, experimenting with security to
 ## 📊 GitHub Stats
 
 <div align="center">
-  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight)
@@ -55,9 +59,16 @@ I enjoy building efficient backend architectures, experimenting with security to
 
 ## 🚀 Featured Projects
 
-### 🌧️ **Smart Rain Alert**
-Smart IoT system using sensors, ESP microcontroller, automation logic, and smart weather-based roof control.  
-👉 *Combines hardware, real-time monitoring, and embedded intelligence.*
+### 🌧️ **AI-Based Early Rain Prediction and Automated Roof System**
+An intelligent **Smart Home IoT system** that utilizes  
+**AI-based early rain prediction**, real-time **water sensor data**,  
+**humidity monitoring**, and **WiFi-based remote connectivity** to  
+automatically control a roof mechanism for weather protection.
+
+👉 *A combination of IoT, embedded systems, automation logic, and AI-driven environmental analysis.*  
+👉 *Designed for smart home applications requiring real-time, automated response.*
+
+---
 
 ### 🎫 **Attendify**
 A modern **QR-based attendance system** with responsive UI, dynamic routing, and modular architecture.  
