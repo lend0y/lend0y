@@ -17,10 +17,6 @@
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white"/>
 </p>
 
-### Backend Development
-<p>
-</p>
-
 ---
 
 ## 📊 GitHub Insights
