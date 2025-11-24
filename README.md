@@ -9,12 +9,6 @@
 
 ---
 
-## 🔧 Tech Stack
-
-
-
----
-
 ## 📊 GitHub Insights
 
 <p align="center">
