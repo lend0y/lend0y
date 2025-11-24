@@ -11,9 +11,7 @@
 
 ## 🔧 Tech Stack
 
-### Cyber Security
-<p>
-</p>
+
 
 ---
 
