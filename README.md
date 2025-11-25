@@ -9,8 +9,8 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&hide_title=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight" height="140"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&hide_title=true&cache_seconds=7200" height="140"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&cache_seconds=7200" height="140"/>
 </p>
 
 ---
