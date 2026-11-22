@@ -7,18 +7,18 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=420"
+    src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=407"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&hide_border=true&card_width=267&langs_count=8"
     height="170"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=lend0y&theme=tokyonight&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lend0y&theme=tokyonight&hide_border=true&card_width=495&card_height=195"
     height="195"
   />
 </p>
