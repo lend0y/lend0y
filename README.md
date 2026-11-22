@@ -11,7 +11,7 @@
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&hide_border=true&card_width=267&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&hide_border=true&card_width=367&langs_count=8"
     height="170"
   />
 </p>
