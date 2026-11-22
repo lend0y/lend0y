@@ -1,16 +1,17 @@
 
 <h1 align="left">Hi there 👋</h1>
 
+---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&card_width=420"
     height="170"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
     height="170"
   />
 </p>
