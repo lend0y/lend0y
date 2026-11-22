@@ -1,11 +1,6 @@
 
 <h1 align="left">Hi there 👋</h1>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=lend0y&label=Profile+Views&color=blueviolet&style=for-the-badge" />
-</p>
-
----
 
 ## 📊 GitHub Stats
 
