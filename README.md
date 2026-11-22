@@ -1,4 +1,5 @@
-<h1 align="center">Hi there👋</h1>
+
+<h1 align="center">Hi there 👋</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lend0y&label=Profile+Views&color=blueviolet&style=for-the-badge" />
@@ -6,16 +7,30 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&hide_title=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight" height="140"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lend0y&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lend0y&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=lend0y&theme=tokyonight&hide_border=true"
+    height="195"
+  />
 </p>
 
 ---
 
 ## 📫 Contact
+
 <p align="left">
   <a href="https://www.instagram.com/koyiimm._/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
