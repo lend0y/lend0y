@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ahmad Qayyim 👋</h1>
+<h1 align="center">Hi there👋</h1>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lend0y&label=Profile+Views&color=blueviolet&style=for-the-badge" />
